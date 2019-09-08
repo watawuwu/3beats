@@ -1,0 +1,929 @@
+{
+  "bpm": 95,
+  "minNoteType": 16,
+  "notes": [
+    {
+      "time": 4.5,
+      "noteNumber": 0,
+      "position": {
+        "x": -0.5,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      }
+    },
+	{
+      "time": 5.125,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      }
+    },
+    {
+      "time": 6,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 7.625,
+      "noteNumber": 1,
+      "position": {
+        "x": 1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 8.5,
+      "noteNumber": 0,
+      "position": {
+        "x": -1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 9.125,
+      "noteNumber": 0,
+      "position": {
+        "x": -1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 9.5,
+      "noteNumber": 0,
+      "position": {
+        "x": -1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 10.125,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 270
+      }
+    },
+    {
+      "time": 11.125,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      }
+    },
+    {
+      "time": 11.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 270
+      }
+    },
+    {
+      "time": 12.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 270
+      }
+    },
+    {
+      "time": 12.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      }
+    },
+    {
+      "time": 13.625,
+      "noteNumber": 1,
+      "position": {
+        "x": 1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 14.25,
+      "noteNumber": 0,
+      "position": {
+        "x": -1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 14.625,
+      "noteNumber": 0,
+      "position": {
+        "x": -1,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    },
+    {
+      "time": 15.25,
+      "noteNumber": 1,
+      "position": {
+        "x": 1,
+        "y": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 16.125,
+      "noteNumber": 0,
+      "position": {
+        "x": -0.5,
+        "y": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 270
+      }
+    },
+    {
+      "time": 16.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      }
+    },
+    {
+      "time": 17.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 17.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 18.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 19.375,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 19.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 20.625,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 21.25,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 21.875,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 22.5,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 23.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 23.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 24.375,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 24.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 25.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 26.25,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 26.875,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 27.5,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 28.25,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 28.875,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 29.5,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 29.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 30.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 31.375,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 32,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 32.625,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 33.25,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 33.875,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 34.5,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 34.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 35.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 36.375,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 37.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 37.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 38.375,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 39,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 39.5,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 39.875,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 40.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 41.5,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 42.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 42.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 43.375,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 44,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 44.625,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 44.875,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 45.875,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 46.5,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 47.125,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 47.75,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 48.375,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 49.125,
+      "noteNumber": 0,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 49.75,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "time": 50,
+      "noteNumber": 1,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ]
+}
